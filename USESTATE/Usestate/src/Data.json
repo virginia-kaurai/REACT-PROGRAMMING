@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "category": "fruit",
+    "price": 120,
+    "rating": 4.5,
+    "tags": ["fresh", "healthy", "sweet"]
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "category": "fruit",
+    "price": 80,
+    "rating": 4.2,
+    "tags": ["energy", "sweet", "soft"]
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "category": "fruit",
+    "price": 100,
+    "rating": 4.3,
+    "tags": ["citrus", "fresh", "vitamin c"]
+  },
+  {
+    "id": 4,
+    "name": "Mango",
+    "category": "fruit",
+    "price": 150,
+    "rating": 4.8,
+    "tags": ["tropical", "sweet", "juicy"]
+  },
+  {
+    "id": 5,
+    "name": "Pineapple",
+    "category": "fruit",
+    "price": 180,
+    "rating": 4.4,
+    "tags": ["tropical", "tangy", "fresh"]
+  },
+
+  {
+    "id": 6,
+    "name": "Chocolate Cake",
+    "category": "cake",
+    "price": 500,
+    "rating": 4.9,
+    "tags": ["sweet", "dessert", "chocolate"]
+  },
+  {
+    "id": 7,
+    "name": "Vanilla Cake",
+    "category": "cake",
+    "price": 450,
+    "rating": 4.6,
+    "tags": ["sweet", "classic", "dessert"]
+  },
+  {
+    "id": 8,
+    "name": "Red Velvet Cake",
+    "category": "cake",
+    "price": 600,
+    "rating": 4.8,
+    "tags": ["luxury", "sweet", "cream"]
+  },
+  {
+    "id": 9,
+    "name": "Strawberry Cake",
+    "category": "cake",
+    "price": 550,
+    "rating": 4.7,
+    "tags": ["fruity", "sweet", "dessert"]
+  },
+  {
+    "id": 10,
+    "name": "Black Forest Cake",
+    "category": "cake",
+    "price": 650,
+    "rating": 4.9,
+    "tags": ["chocolate", "cream", "dessert"]
+  },
+
+  {
+    "id": 11,
+    "name": "Orange Juice",
+    "category": "drink",
+    "price": 200,
+    "rating": 4.5,
+    "tags": ["fresh", "citrus", "cold"]
+  },
+  {
+    "id": 12,
+    "name": "Mango Juice",
+    "category": "drink",
+    "price": 220,
+    "rating": 4.6,
+    "tags": ["tropical", "sweet", "cold"]
+  },
+  {
+    "id": 13,
+    "name": "Milkshake",
+    "category": "drink",
+    "price": 300,
+    "rating": 4.7,
+    "tags": ["creamy", "sweet", "cold"]
+  },
+  {
+    "id": 14,
+    "name": "Coffee",
+    "category": "drink",
+    "price": 250,
+    "rating": 4.4,
+    "tags": ["hot", "energy", "bitter"]
+  },
+  {
+    "id": 15,
+    "name": "Tea",
+    "category": "drink",
+    "price": 150,
+    "rating": 4.3,
+    "tags": ["hot", "relaxing", "light"]
+  },
+  {
+    "id": 16,
+    "name": "Lemonade",
+    "category": "drink",
+    "price": 180,
+    "rating": 4.5,
+    "tags": ["citrus", "refreshing", "cold"]
+  }
+]
